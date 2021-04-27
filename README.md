@@ -1,3 +1,3 @@
 # cv
 
-Made by exporting Notion template <3>
+Made by exporting Notion template <3
